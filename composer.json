@@ -1,17 +1,17 @@
 {
-    "name": "codefiretech/usermgmt",
+    "name": "cf-abhayjeet/test",
     "description": "The users module for Yii framework.",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "users", "user", "module", "modules", "account", "management", "profile", "profiles"],
     "version": "1.0.0",
-    "homepage" : "https://github.com/codefiretech/usermgmt",
+    "homepage" : "https://github.com/cf-abhayjeet/test",
     "authors": [
         {
-            "name" : "Pranjal",
-            "email": "pranjal@codefire.in"
+            "name" : "Abhayjeet",
+            "email": "abhayjeet@codefire.in"
         }
     ],
     "require": {
-        "codefiretech/usermgmt"
+        "cf-abhayjeet/test":"dev-master"
     }
 }
